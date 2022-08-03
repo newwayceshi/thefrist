@@ -1,6 +1,6 @@
 {
     "name": "HX",
-    "description": "Powered By Misaka-blog",
+    "description": "kamimi",
     "keywords": [],
     "env": {
         "TYPE": {
@@ -12,7 +12,7 @@
             "value": ""
         }
     },
-    "website": "https://owo.misaka.rest",
+    "website": "no",
     "repository": "",
     "stack": "container"
 }
